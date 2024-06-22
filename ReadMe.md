@@ -1,78 +1,147 @@
-# ChatQt
+# Documentation for Bug-Finding Exercise in a MERN Stack Project
 
-A simple chat application built with React ,  Node Js and MQTT Protocol.This is an unofficial project solely intended for personal learning and exploration of technologies
-
-
+---
 
 ## Table of Contents
 
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
+1. [Introduction](#introduction)
+2. [Prerequisites](#prerequisites)
+3. [Project Overview](#project-overview)
+4. [Exercise Workflow](#exercise-workflow)
+   - [Step 1: Setup](#step-1-setup)
+   - [Step 2: Understanding the Correct Workflow](#step-2-understanding-the-correct-workflow)
+   - [Step 3: Identifying and Fixing Bugs](#step-3-identifying-and-fixing-bugs)
+   - [Step 4: Testing and Validation](#step-4-testing-and-validation)
+5. [Resources](#resources)
+6. [Submission Guidelines](#submission-guidelines)
+7. [FAQ](#faq)
 
-## Prerequisites
+---
 
-Before you begin, ensure you have met the following requirements:
+## 1. Introduction
 
-- Node.js and npm installed.
-- Git installed.
-- MongoDB installed and set up locally.
+Welcome to the Bug-Finding Exercise for the MERN Stack Chat Application! This exercise aims to enhance your debugging skills by identifying and fixing bugs in a chat application that uses the MQTT protocol for lightweight client-to-client message transfer.
 
-## Installation
+## 2. Prerequisites
 
-1. **Clone the repository :**
+Before you start, ensure you have the following:
+
+- Basic knowledge of MERN stack (MongoDB, Express.js, React, Node.js)
+- Understanding of the MQTT protocol
+- Node.js and npm installed on your machine
+- Git installed on your machine
+
+## 3. Project Overview
+
+The project is a chat application built with the MERN stack, designed to facilitate lightweight client-to-client messaging using MQTT. The application allows users to create accounts, log in, and chat in real-time. The goal of this exercise is to identify and fix bugs in the provided codebase to match the functionality demonstrated in the final correct working video.
+
+## 4. Exercise Workflow
+
+### Step 1: Setup
+
+1. **Clone the Repository:**
+   Clone the provided GitHub repository to your local machine.
+   ```bash
+   git clone https://github.com/UserDipanshu/Web_bug_fixing_assignment
+   ```
+2. **Install Dependencies:**
+   Navigate to the project directory and install the necessary dependencies for both the backend and frontend.
 
    ```bash
-   git clone https://github.com/ds-247/chat-playground.git
+   cd project-directory
+      cd backend
+      npm install
 
-2. **Installing dependencies :**
+      cd frontend
+      npm install
+   ```
+
+3. **Environment Setup:**
+   Set up the environment variables as required. Refer to `.env.example` files in both the backend and frontend directories and create `.env` files with appropriate values.
+
+### Step 2: Understanding the Correct Workflow
+
+1. **Watch the Video:**
+   Watch the provided video that demonstrates the correct working of the chat application. Pay close attention to the user interactions and expected outcomes.
+
+2. **Take Notes:**
+   Make notes of key functionalities and behaviors demonstrated in the video. This will help you compare and identify discrepancies in the provided codebase.
+
+### Step 3: Identifying and Fixing Bugs
+
+1. **Run the Application:**
+   Start both the backend and the frontend.
 
    ```bash
-   cd chat-playground
+   # In the backend directory
+   npm start
 
-   npm install
-   # or
-   yarn install
+   # In the frontend directory
+   npm start
+   ```
 
+2. **Compare with the Video:**
+   Interact with the application and compare its behavior with the video. Identify any bugs or discrepancies.
 
-## Usage
+3. **Debug and Fix:**
+   - Use browser developer tools and server logs to debug issues.
+   - Fix the bugs in the codebase. Ensure you document each bug you find and the steps you took to fix it.
 
-1. **Starting the Server :**
+### Step 4: Testing and Validation
+
+1. **Test the Application:**
+   After fixing the bugs, thoroughly test the application to ensure it matches the correct workflow demonstrated in the video.
+
+2. **Peer Review:**
+   Optionally, have a peer review your fixes to ensure no bugs are missed.
+
+## 5. Resources
+
+- **Final Working Video:** [[Link to the video](https://mrmprocompl-my.sharepoint.com/:f:/g/personal/dipanshu_mrmprocom_com/ElpD1ii5pOVIpJ2-Jhj2IG8BRNOyj27wQSUh6g0sSAhfiA?e=rQt0v5)]
+- **Project Repository:** [Link to the repository]
+- **Documentation Links:**
+  - [MongoDB Documentation](https://docs.mongodb.com/)
+  - [Express.js Documentation](https://expressjs.com/)
+  - [React Documentation](https://react.dev/learn)
+  - [Node.js Documentation](https://nodejs.org/docs/latest/api/)
+  - [MQTT Documentation](https://mqtt.org/)
+
+## 6. Submission Guidelines
+
+1. **Create a New Repository:**
+   Create a new repository on your GitHub account.
+
+2. **Commit Changes:**
+   Commit all changes to your local repository.
+
    ```bash
-   nodemon index.js
-2. **Starting the MongoDB :**
-   ```bash
-      mongod
-3. **Starting the Application :**
-   ```bash
-      npm run dev
-4. **Open the application in the default browser :**
-   ```bash
-      o
-### Detailed Process for Using the Application
+   git add .
+   git commit -m "Fixed bugs in the chat application"
+   ```
 
-To use or test this application, follow these steps:
+3. **Push to Repository:**
+   Push your changes to your new GitHub repository.
 
-1. Start MongoDB by running the following command in the terminal:
    ```bash
-   mongod
-2. After starting the MongoDB server, navigate to the backend folder in the terminal and start the application server with either of the following commands:
-   ```bash
-   node index.js
+   git remote add origin <your-new-repo-url>
+   git push -u origin main
+   ```
 
-   # or if you have nodemon installed:
-   mongod
-3. Open two separate instances of the frontend part of the application by starting servers in two different terminal windows. Use the following command:
-   ```bash
-   npm run dev
-   # Press 'o' to open the application in the default browser.
+4. **Share Repository Link:**
+   Share the link to your GitHub repository containing the fixed code.
 
-4. Once the two instances are opened in two tabs of the default browser, go through the login/registration process for the application. After successfully registering or logging in, navigate to the participants to choose someone to chat.
+## 7. FAQ
 
-5. If both users are authenticated successfully, the chat window opens, and you're ready to start chatting.
-## Features
+**Q1:** What if I cannot identify a bug?
 
-- **Real-time chat using MQTT**
-- **Light Weight Chat Application**
-- **Interactive and user friendly UI**
+- **A:** Re-watch the video and compare every small detail. Utilize debugging tools and check the project documentation for potential issues.
+
+**Q2:** Can I use additional libraries or tools?
+
+- **A:** It's recommended to stick with the provided stack. However, if you believe an additional tool is necessary, document your reasoning in the PR.
+
+**Q3:** How will my submission be evaluated?
+
+- **A:** Your submission will be evaluated based on the correctness of the bug fixes, the completeness of your documentation, and the functionality of the application post-fix.
+
+---
