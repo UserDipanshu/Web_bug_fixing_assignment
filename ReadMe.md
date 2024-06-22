@@ -40,7 +40,7 @@ The project is a chat application built with the MERN stack, designed to facilit
 ### Step 1: Setup
 
 1. **Download the code:**
-   Download the code in zip folder inside the provided link.   [[Link](https://mrmprocompl-my.sharepoint.com/:f:/g/personal/dipanshu_mrmprocom_com/ElpD1ii5pOVIpJ2-Jhj2IG8BRNOyj27wQSUh6g0sSAhfiA?e=rQt0v5)]
+   Download the code from the following github repository link.   [[Link to Repo](https://github.com/UserDipanshu/Web_bug_fixing_assignment)]
 2. **Install Dependencies:**
    Navigate to the project directory and install the necessary dependencies for both the backend and frontend.
 
@@ -106,27 +106,8 @@ The project is a chat application built with the MERN stack, designed to facilit
 
 ## 6. Submission Guidelines
 
-1. **Create a New Repository:**
-   Create a new repository on your GitHub account.
-
-2. **Commit Changes:**
-   Commit all changes to your local repository.
-
-   ```bash
-   git add .
-   git commit -m "Fixed bugs in the chat application"
-   ```
-
-3. **Push to Repository:**
-   Push your changes to your new GitHub repository.
-
-   ```bash
-   git remote add origin <your-new-repo-url>
-   git push -u origin main
-   ```
-
-4. **Share Repository Link:**
-   Share the link to your GitHub repository containing the fixed code.
+**Share Zip folder:**
+   Share your code by making zip folder with proper documentation using readme file on the provided mail id ashokgupta@mrmprocom.com.
 
 ## 7. FAQ
 
