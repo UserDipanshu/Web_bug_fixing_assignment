@@ -96,7 +96,7 @@ The project is a chat application built with the MERN stack, designed to facilit
 ## 5. Resources
 
 - **Final Working Video:** [[Link](https://mrmprocompl-my.sharepoint.com/:f:/g/personal/dipanshu_mrmprocom_com/ElpD1ii5pOVIpJ2-Jhj2IG8BRNOyj27wQSUh6g0sSAhfiA?e=rQt0v5)]
-- **Project Repository:** [Link to the repository]
+- **Project Repository:**  [[Link to Repo](https://github.com/UserDipanshu/Web_bug_fixing_assignment)]
 - **Documentation Links:**
   - [MongoDB Documentation](https://docs.mongodb.com/)
   - [Express.js Documentation](https://expressjs.com/)
