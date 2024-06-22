@@ -39,11 +39,8 @@ The project is a chat application built with the MERN stack, designed to facilit
 
 ### Step 1: Setup
 
-1. **Clone the Repository:**
-   Clone the provided GitHub repository to your local machine.
-   ```bash
-   git clone https://github.com/UserDipanshu/Web_bug_fixing_assignment
-   ```
+1. **Download the code:**
+   Download the code in zip folder inside the provided link.   [[Link](https://mrmprocompl-my.sharepoint.com/:f:/g/personal/dipanshu_mrmprocom_com/ElpD1ii5pOVIpJ2-Jhj2IG8BRNOyj27wQSUh6g0sSAhfiA?e=rQt0v5)]
 2. **Install Dependencies:**
    Navigate to the project directory and install the necessary dependencies for both the backend and frontend.
 
@@ -63,6 +60,7 @@ The project is a chat application built with the MERN stack, designed to facilit
 
 1. **Watch the Video:**
    Watch the provided video that demonstrates the correct working of the chat application. Pay close attention to the user interactions and expected outcomes.
+   [[Link](https://mrmprocompl-my.sharepoint.com/:f:/g/personal/dipanshu_mrmprocom_com/ElpD1ii5pOVIpJ2-Jhj2IG8BRNOyj27wQSUh6g0sSAhfiA?e=rQt0v5)]
 
 2. **Take Notes:**
    Make notes of key functionalities and behaviors demonstrated in the video. This will help you compare and identify discrepancies in the provided codebase.
@@ -97,7 +95,7 @@ The project is a chat application built with the MERN stack, designed to facilit
 
 ## 5. Resources
 
-- **Final Working Video:** [[Link to the video](https://mrmprocompl-my.sharepoint.com/:f:/g/personal/dipanshu_mrmprocom_com/ElpD1ii5pOVIpJ2-Jhj2IG8BRNOyj27wQSUh6g0sSAhfiA?e=rQt0v5)]
+- **Final Working Video:** [[Link](https://mrmprocompl-my.sharepoint.com/:f:/g/personal/dipanshu_mrmprocom_com/ElpD1ii5pOVIpJ2-Jhj2IG8BRNOyj27wQSUh6g0sSAhfiA?e=rQt0v5)]
 - **Project Repository:** [Link to the repository]
 - **Documentation Links:**
   - [MongoDB Documentation](https://docs.mongodb.com/)
