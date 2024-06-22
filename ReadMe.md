@@ -79,7 +79,7 @@ The project is a chat application built with the MERN stack, designed to facilit
    ```
 
 2. **Compare with the Video:**
-   Interact with the application and compare its behavior with the video. Identify any bugs or discrepancies.
+   Interact with the application and compare its behavior with the video. Identify any bugs or discrepancies. [[Link](https://mrmprocompl-my.sharepoint.com/:f:/g/personal/dipanshu_mrmprocom_com/ElpD1ii5pOVIpJ2-Jhj2IG8BRNOyj27wQSUh6g0sSAhfiA?e=rQt0v5)]
 
 3. **Debug and Fix:**
    - Use browser developer tools and server logs to debug issues.
