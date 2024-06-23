@@ -58,7 +58,7 @@ The project is a chat application built with the MERN stack, designed to facilit
 ### Step 2: Understanding the Correct Workflow
 
 1. **Watch the Video:**
-   Watch the provided video [[Link](https://mrmprocompl-my.sharepoint.com/:v:/r/personal/dipanshu_mrmprocom_com/Documents/Assignment%20Exercise/Assignment_video.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=v8npGp)] that demonstrates the correct working of the chat application. Pay close attention to the user interactions and expected outcomes.
+   Watch the provided video [[Link](https://mrmprocompl-my.sharepoint.com/personal/dipanshu_mrmprocom_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fdipanshu%5Fmrmprocom%5Fcom%2FDocuments%2FAssignment%20Exercise%2FAssignment%5Fvideo%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eeb10251b%2Df062%2D4781%2Db70b%2Dcb1cf0bcfc75)] that demonstrates the correct working of the chat application. Pay close attention to the user interactions and expected outcomes.
    This video shows how the chat application is supposed to work when the bugs present in the code are fixed.
 
 2. **Take Notes:**
@@ -78,7 +78,7 @@ The project is a chat application built with the MERN stack, designed to facilit
    ```
 
 2. **Compare with the Video:**
-   Interact with the application and compare its behavior with the video [[Link](https://mrmprocompl-my.sharepoint.com/:v:/r/personal/dipanshu_mrmprocom_com/Documents/Assignment%20Exercise/Bug%20Showing%20Video.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6eMP7l)] This video shows the issue present in the chat application's code due to bug present in codebase. The bug is causing the New User Registeration form to not work as expected. The aim of this exercise is to identify the bug causing this issue and fix it so that new users can register themself.
+   Interact with the application and compare its behavior with the video [[Link](https://mrmprocompl-my.sharepoint.com/personal/dipanshu_mrmprocom_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fdipanshu%5Fmrmprocom%5Fcom%2FDocuments%2FAssignment%20Exercise%2FBug%20Showing%20Video%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efbc49d3e%2Df616%2D47c5%2Db645%2D219b25c56a2d)] This video shows the issue present in the chat application's code due to bug present in codebase. The bug is causing the New User Registeration form to not work as expected. The aim of this exercise is to identify the bug causing this issue and fix it so that new users can register themself.
 
 3. **Debug and Fix:**
    - Use browser developer tools and server logs to debug issues.
@@ -94,8 +94,8 @@ The project is a chat application built with the MERN stack, designed to facilit
 
 ## 5. Resources
 
-- **Buggy App Video:** [[Link](https://mrmprocompl-my.sharepoint.com/:v:/r/personal/dipanshu_mrmprocom_com/Documents/Assignment%20Exercise/Bug%20Showing%20Video.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6eMP7l)]
-- **Final Working Video:** [[Link](https://mrmprocompl-my.sharepoint.com/:v:/r/personal/dipanshu_mrmprocom_com/Documents/Assignment%20Exercise/Assignment_video.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=v8npGp)]
+- **Buggy App Video:** [[Link](https://mrmprocompl-my.sharepoint.com/personal/dipanshu_mrmprocom_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fdipanshu%5Fmrmprocom%5Fcom%2FDocuments%2FAssignment%20Exercise%2FBug%20Showing%20Video%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efbc49d3e%2Df616%2D47c5%2Db645%2D219b25c56a2d)]
+- **Final Working Video:** [[Link](https://mrmprocompl-my.sharepoint.com/personal/dipanshu_mrmprocom_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fdipanshu%5Fmrmprocom%5Fcom%2FDocuments%2FAssignment%20Exercise%2FAssignment%5Fvideo%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eeb10251b%2Df062%2D4781%2Db70b%2Dcb1cf0bcfc75)]
 - **Project Repository:**  [[Link to Repo](https://github.com/UserDipanshu/Web_bug_fixing_assignment)]
 - **Documentation Links:**
   - [MongoDB Documentation](https://docs.mongodb.com/)
