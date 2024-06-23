@@ -27,7 +27,6 @@ Welcome to the Bug-Finding Exercise for the MERN Stack Chat Application! This ex
 Before you start, ensure you have the following:
 
 - Basic knowledge of MERN stack (MongoDB, Express.js, React, Node.js)
-- Understanding of the MQTT protocol
 - Node.js and npm installed on your machine
 - Git installed on your machine
 
@@ -59,8 +58,8 @@ The project is a chat application built with the MERN stack, designed to facilit
 ### Step 2: Understanding the Correct Workflow
 
 1. **Watch the Video:**
-   Watch the provided video that demonstrates the correct working of the chat application. Pay close attention to the user interactions and expected outcomes.
-   [[Link](https://mrmprocompl-my.sharepoint.com/:f:/g/personal/dipanshu_mrmprocom_com/ElpD1ii5pOVIpJ2-Jhj2IG8BRNOyj27wQSUh6g0sSAhfiA?e=rQt0v5)]
+   Watch the provided video [[Link](https://mrmprocompl-my.sharepoint.com/:v:/r/personal/dipanshu_mrmprocom_com/Documents/Assignment%20Exercise/Assignment_video.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=v8npGp)] that demonstrates the correct working of the chat application. Pay close attention to the user interactions and expected outcomes.
+   This video shows how the chat application is supposed to work when the bugs present in the code are fixed.
 
 2. **Take Notes:**
    Make notes of key functionalities and behaviors demonstrated in the video. This will help you compare and identify discrepancies in the provided codebase.
@@ -79,7 +78,7 @@ The project is a chat application built with the MERN stack, designed to facilit
    ```
 
 2. **Compare with the Video:**
-   Interact with the application and compare its behavior with the video. Identify any bugs or discrepancies. [[Link](https://mrmprocompl-my.sharepoint.com/:f:/g/personal/dipanshu_mrmprocom_com/ElpD1ii5pOVIpJ2-Jhj2IG8BRNOyj27wQSUh6g0sSAhfiA?e=rQt0v5)]
+   Interact with the application and compare its behavior with the video [[Link](https://mrmprocompl-my.sharepoint.com/:v:/r/personal/dipanshu_mrmprocom_com/Documents/Assignment%20Exercise/Bug%20Showing%20Video.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6eMP7l)] This video shows the issue present in the chat application's code due to bug present in codebase. The bug is causing the New User Registeration form to not work as expected. The aim of this exercise is to identify the bug causing this issue and fix it so that new users can register themself.
 
 3. **Debug and Fix:**
    - Use browser developer tools and server logs to debug issues.
@@ -95,7 +94,8 @@ The project is a chat application built with the MERN stack, designed to facilit
 
 ## 5. Resources
 
-- **Final Working Video:** [[Link](https://mrmprocompl-my.sharepoint.com/:f:/g/personal/dipanshu_mrmprocom_com/ElpD1ii5pOVIpJ2-Jhj2IG8BRNOyj27wQSUh6g0sSAhfiA?e=rQt0v5)]
+- **Buggy App Video:** [[Link](https://mrmprocompl-my.sharepoint.com/:v:/r/personal/dipanshu_mrmprocom_com/Documents/Assignment%20Exercise/Bug%20Showing%20Video.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6eMP7l)]
+- **Final Working Video:** [[Link](https://mrmprocompl-my.sharepoint.com/:v:/r/personal/dipanshu_mrmprocom_com/Documents/Assignment%20Exercise/Assignment_video.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=v8npGp)]
 - **Project Repository:**  [[Link to Repo](https://github.com/UserDipanshu/Web_bug_fixing_assignment)]
 - **Documentation Links:**
   - [MongoDB Documentation](https://docs.mongodb.com/)
@@ -107,7 +107,13 @@ The project is a chat application built with the MERN stack, designed to facilit
 ## 6. Submission Guidelines
 
 **Share Zip folder:**
-   Share your code by making zip folder with proper documentation using readme file on the provided mail id ashokgupta@mrmprocom.com.
+   Share your code by making zip folder and email it to ashokgupta@mrmprocom.com (CC: hr-department@mrmprocom.com) with the subject "Take home exercise submission for Fullstack Engineer position".
+   Please ensure to add the following in the Zip folder:
+1. **Resume**: Your updated resume.
+2. **Bug.txt**:
+    A text file explaining the bug in the code and how you fixed the code.
+3. **Code**:
+    A copy of the code with the bug fixed and the chat application working properly. Please commit your changes to git with proper commit messages.
 
 ## 7. FAQ
 
@@ -123,4 +129,7 @@ The project is a chat application built with the MERN stack, designed to facilit
 
 - **A:** Your submission will be evaluated based on the correctness of the bug fixes, the completeness of your documentation, and the functionality of the application post-fix.
 
+**Q4** How ling will this exercise take?
+
+- **A:** This exercise is expected to take less than 1 hour of time to identify the bug and fix it.
 ---
